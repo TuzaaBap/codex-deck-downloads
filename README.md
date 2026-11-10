@@ -1,9 +1,10 @@
 # Codex Deck downloads
 
-Control Studio for the **BANKAI / 9** USB macropad.
+Control Studio for the **BANKAI / 9** USB macropad. No development tools needed.
 
-Get the app from [Releases](https://github.com/TuzaaBap/codex-deck-downloads/releases). On an M1 or newer Mac, choose **CodexDeck-Apple-Silicon.zip** under **Assets**. Unzip it, move **CodexDeck.app** into Applications, and connect your pad. The release page explains first-launch permissions.
+Get the app from [Releases](https://github.com/TuzaaBap/codex-deck-downloads/releases):
 
-For an update, quit the app, then replace it with the new download. Profiles and settings are stored separately.
+- **Windows 11:** Run the Windows Setup executable.
+- **M1 or newer Mac:** Unzip the Apple Silicon download and move CodexDeck.app to Applications. Follow the first-launch instructions on the release.
 
-This repository hosts downloads and release notes.
+Connect your pad with a USB data cable. Updates are posted on the same Releases page. Your profiles and settings are stored separately.
